@@ -1,0 +1,40 @@
+seria_testow,test,photon_num,seconds
+mati-sim 2-layers,1000_photons,1000,9.886546611785889
+mati-sim 2-layers,100_000_photons,100000,988.9582951068878
+mati-sim 2-layers,100_photons,100,0.9880919456481934
+mati-sim 2-layers,10_000_photons,10000,98.03512787818909
+mati-sim 2-layers,1_000_000_photons,1000000,9912.306844949722
+mati-sim 3-layers,1000_fotonow,1000,128.9927453994751
+mati-sim 3-layers,100_000_fotonow,100000,1021.687760591507
+mati-sim 3-layers,100_fotonow,100,13.117117881774902
+mati-sim 3-layers,10_000_fotonow,10000,102.9924259185791
+mati-sim 3-layers,1_000_000,1000000,10031.441426038742
+mati-sim my_params 10k-100mln,t_100k_my_params,100000,174.1371350288391
+mati-sim my_params 10k-100mln,t_100mln_my_params,100000000,196204.2739892006
+mati-sim my_params 10k-100mln,t_100_my_params,100,0.2132875919342041
+mati-sim my_params 10k-100mln,t_10k_my_params,10000,17.567716360092163
+mati-sim my_params 10k-100mln,t_10mln_my_params,10000000,19611.488008260727
+mati-sim my_params 10k-100mln,t_1mln_my_params,1000000,1768.5320315361023
+mati-sim org_params 10k-10mln,t_100k_original_params,100000,1249.3648731708527
+mati-sim org_params 10k-10mln,t_10k_original_params,10000,129.426011800766
+mati-sim org_params 10k-10mln,t_10mln_original_params,10000000,123736.5491771698
+mati-sim org_params 10k-10mln,t_1mln_original_params,1000000,11969.791206121445
+mati-sim veins,1000_fotonów,1000,170.05679941177368
+mati-sim veins,100_000_fotonów,100000,15507.92307972908
+mati-sim veins,100_fotonow_propEnvVec,100,31.46230173110962
+mati-sim veins,100_fotonów,100,18.692472457885742
+mati-sim veins,10_000_fotonów,10000,1714.2700304985046
+mc456 my_params 10k-100mln,mc456_log_100k_my_params.txt,100000,16.0533
+mc456 my_params 10k-100mln,mc456_log_100mln_my_params.txt,100000000,3864.154
+mc456 my_params 10k-100mln,mc456_log_10k_my_params.txt,10000,10.6598
+mc456 my_params 10k-100mln,mc456_log_10mln_my_params.txt,10000000,410.2528
+mc456 my_params 10k-100mln,mc456_log_1mln_my_params.txt,1000000,53.894
+mc456 org_params 10k-100mln,mc456_log_100k_original_params.txt,100000,21.5266
+mc456 org_params 10k-100mln,mc456_log_100mln_original_params.txt,100000000,10559.0714
+mc456 org_params 10k-100mln,mc456_log_10k_original_params.txt,10000,11.1414
+mc456 org_params 10k-100mln,mc456_log_10mln_original_params.txt,10000000,1073.308
+mc456 org_params 10k-100mln,mc456_log_1mln_original_params.txt,1000000,117.1551
+mc456_p my-params 10k-10mln,mc456_p_log_100k_my_params_tiss_id_4_g_0_9_ls_down.txt,100000,241.2404
+mc456_p my-params 10k-10mln,mc456_p_log_10k_my_params_tiss_id_4_g_0_9_ls_down.txt,10000,33.16
+mc456_p my-params 10k-10mln,mc456_p_log_10mln_my_params_tiss_id_4_g_0_9_ls_down.txt,10000000,21958.1426
+mc456_p my-params 10k-10mln,mc456_p_log_1mln_my_params_tiss_id_4_g_0_9_ls_down.txt,1000000,2264.5167
